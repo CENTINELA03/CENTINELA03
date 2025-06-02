@@ -1,6 +1,5 @@
 ## Hi there, I'm Mario Acuña "CENTINELA03" 👋 
-- [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
-- 
+
 **My Research Interest**:
 - Outlying Aspect Mining
 - Classification
